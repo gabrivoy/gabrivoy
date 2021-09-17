@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel Ribeiro, also known at @gabrivoy in social media and online games.
-- 👀 I’m interested in an electrical engineering senior student at the Polytechnic School of Rio de Janeiro's Federal University (Poli-UFRJ), 
+- 👀 I’m an electrical engineering senior student at the Polytechnic School of Rio de Janeiro's Federal University (Poli-UFRJ), 
 with graduation forecast for December 2021. After graduating, I'll probably pursue a master's in computational intelligence.
 - :blue_book: My goal as a professional is to work for companies that allow high growth and a diverse work environment for its employees.
 - :computer: My professional interests involve control, automation, instrumentation, telecommunications, maintenance and reliability of industrial equipment, 
