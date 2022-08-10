@@ -4,7 +4,7 @@ I’m Gabriel Ribeiro, also known at @gabrivoy in social media and online games.
 
 I have a degree in electrical engineering from the Polytechnic School of the Federal University of Rio de Janeiro (UFRJ). Since the start of my undergraduate studies, I was interested in computation and data driven technologies, which lead me to mix my knowledge in both areas and pursue data science for my career.
 
-I work at [Shape Digital](https://shapedigital.com/) as a Junior Data Scientist and Machine Learning Engineer, working in data driven solutions for the Oil and Gas industry and insights for Preditctive Maintenance 4.0 (PdM 4.0).
+I work at [Shape Digital](https://shapedigital.com/) as a Data Scientist and Machine Learning Engineer, working in data driven solutions for the Oil and Gas industry and insights for Preditctive Maintenance 4.0 (PdM 4.0).
 
 I hope I'll begin to populate more this space with side projects and open source projects that I'm developing.
 
