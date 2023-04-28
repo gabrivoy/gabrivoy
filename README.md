@@ -2,7 +2,7 @@
 
 I’m Gabriel Ribeiro, also known at @gabrivoy in social media and online games.
 
-I'm a Software Engineer with 2 years of experience in the Machine Learning ecosystem by being beforehand a Data Scientist and now a Machine Learning Engineer at [Shape Digital](https://shapedigital.com/).
+I'm a Software Engineer with 3+ years of experience in the Machine Learning ecosystem by being beforehand a Data Scientist and now a Machine Learning Engineer at [Shape Digital](https://shapedigital.com/).
 
 Experienced in Python and it's frameworks Django and Flask, and with proficiency in packages for data modelling and manipulation such as Numpy, SciPy, Pandas, Spark (PySpark), Scikit-Learn, Tensorflow, Pytorch, Keras.
 
