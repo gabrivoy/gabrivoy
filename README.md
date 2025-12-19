@@ -2,13 +2,17 @@
 
 I’m Gabriel, also known at @gabrivoy in social media and online games.
 
-I’m a Machine Learning Engineer with around 6 years building and operating production ML systems end-to-end: data pipelines, training workflows, real-time serving, monitoring, and evaluation. I enjoy working at the intersection of ML/LLMs, software engineering, and systems, partnering closely with product and domain experts to ship reliable solutions. Professional experience working in agile teams using Scrum’s Agile Methodology, concerned with product beyond its technical part, and generating the highest possible value within each delivery.
+I’m a Machine Learning Engineer with around 6 years building and operating production ML systems end-to-end: data pipelines, training workflows, real-time serving, monitoring, and evaluation. I enjoy working at the intersection of ML/LLMs, software engineering, and systems, partnering closely with product and domain experts to ship reliable solutions. 
+
+I'm also pursuing a masters in Computer Science at PUC-Rio (you'll see a lot of my master's work here)!
+
+Professional experience working in agile teams using Scrum’s Agile Methodology, concerned with product beyond its technical part, and generating the highest possible value within each delivery.
 
 ### What I work with
 - Languages: Python (primary), SQL, (some) Go.
 - Backend & APIs: FastAPI, Flask, Django, streaming APIs (SSE), stateful services.
 - ML & Data: NumPy, Pandas, SciPy, scikit-learn, PyTorch, TensorFlow, XGBoost, PySpark.
-- LLMs & Retrieval: agent workflows (LangGraph), prompt engineering, hybrid retrieval (dense + sparse), reranking, vector databases (Qdrant), offline evaluation (**MAP@K, nDCG@K, MRR**)  
+- LLMs & Retrieval: agent workflows (LangGraph), prompt engineering, hybrid retrieval (dense + sparse), reranking, vector databases (Qdrant, Milvus), offline evaluation (MAP@K, nDCG@K, MRR)  
 - MLOps & Infrastructure: Docker, MLflow, Airflow, DVC, Terraform, CI/CD, testing (pytest), typing (MyPy/Pyright), linting (Ruff)  
 - Cloud & Platforms: AWS and Azure ecosystems (containerized deployments, storage, managed databases, observability)  
 - Observability: logs/metrics/tracing, ELK stack, Grafana/Loki  
